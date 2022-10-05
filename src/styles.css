@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-left: 25vw;
+}
+.container {
+  height: 50vh;
+  width: 50vw;
+  border: 5px solid red;
+}
+button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 50px;
+  margin-top: 22vh;
+}
+.head {
+  background-color: crimson;
+  height: 80px;
+  padding-top: 2vh;
+  box-sizing: border-box;
+}
